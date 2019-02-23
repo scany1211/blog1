@@ -30,22 +30,16 @@ header-img: "img/green.jpg"
 ![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
 
-## 博客/公众号：读立写生
-
-汇总我写过的所有公开文章。内容包括写作方法、跨学科学习、认知科学、翻译、千字文练习等。
-
-免费，每月至少更新 2 篇。
-
-地址：[www.cnfeat.com](http://www.cnfeat.com) 
+## 《笨方法学写作》相关链接
 
 
-## 邮件列表：卡片创作通讯
+[笨方法学写作 官网](http://www.LearnWritingTheHardWay.cn)
+[笨方法学写作 博客](http://www.cnfeat.com)：
+[笨方法学习故事](http://story.learnwritingthehardway.cn/)
+[笨方法文集](http://book.learnthingsthehardway.com/)
+[卡片创作文集](http://card.learnwritingthehardway.cn/)
+[笨方法学写作参考书单](https://www.douban.com/doulist/45064751/)
 
-书信体的个人生活与学习建议（与博客内容不同）。推荐内容包括认知科学、 卡片、创作等等。
-
-免费，每月至少更新 1 封。
-
-地址：[http://tinyletter.com/cnfeat](http://tinyletter.com/cnfeat)
 
 
 
@@ -74,6 +68,7 @@ header-img: "img/green.jpg"
 
 ## 最近在干嘛？
 
+- 2019-02 筹备课程升级，所有最近动态请看笨方法学习周报
 - 2017-11 更新《笨方法学写作》
 - 2017-09 练习《笨方法学Python》，学习产品经理知识；
 - 2017-07 每天更新小密圈；
@@ -95,6 +90,7 @@ header-img: "img/green.jpg"
 
 ### ChangeLog
 
+- 2019-02-23 修订此页面，增加文集链接
 - 2017-11-23 修订笨方法学写作产品介绍，删去电报群
 - 2017-09-22 优化页面
 - 2017-08-09 增补电报群
