@@ -1,4 +1,12 @@
-# 所有风物变幻，都穿透日常存在
+---
+layout: post
+title: 所有风物变幻，都穿透日常存在
+date: 2019-03-11
+categories: blog
+tags: [读书,卡片]
+description: 读书是一项「对重要内容进行提炼的工序」。
+---
+
 
 ![image](http://upload-images.jianshu.io/upload_images/32598-c9145cd43de237ff?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
