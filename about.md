@@ -6,10 +6,6 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
-
 我是陈素封，持续写作者，终身学习者，我的产品列表如下：
 
 
@@ -49,7 +45,12 @@ header-img: "img/green.jpg"
 
 地址：[https://github.com/cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
 
+## 赞赏
 
+
+如果内容对你有帮助，那就买盒卡片助我继续分享吧 (＾－＾)
+
+![](https://s2.ax1x.com/2019/03/16/AZUnVU.png)
 
 
 ## 自愿付费
