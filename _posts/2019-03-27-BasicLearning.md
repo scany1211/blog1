@@ -82,6 +82,14 @@ Ray Dalio 的《原则》：**明智的人在经历各种沉浮时都始终盯�
 
 相关文章：[《像纳博科夫一样写作：卡片创作法》](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639168&idx=1&sn=a612b22c336488479b91505978feab40&chksm=879dc06fb0ea497984d5760371bd8e5c0e6b050a8237c7859f48bdc72141650eab719eb6e7f5&token=1858265307&lang=zh_CN#rd)
 
+### 整理：系统输出
+    
+自学者，往往没有老师来帮忙整理所有的学习资料、学习进度以及各种反思。
+
+如果所有这些信息都混杂在一起，那么我们很容易就会觉得像是陷入了泥潭，看不到整体的进度，而且反而还会觉得很累。要想避免出现这种情况，有两点值得注意：第一，不要同时做太多的事情；第二，把所有信息整理起来，并且形成整理的习惯。
+
+系统整理的成果包括：你的自学计划、自学进度、自学成果、自学困难等，且最好将你的自学成果公开，一是公开记录，二是有机会获取外界的反馈与鼓励。
+
 ### 社区：同辈压力
 
 任何自学者，独处至多只能爆发出适度的创造力，但人终究是社会性动物，大多数需要一个支持性的社会环境。
@@ -114,9 +122,3 @@ Ray Dalio 的《原则》：**明智的人在经历各种沉浮时都始终盯�
 
 **凡事有所逼有所激成者居半**，如今我写《自学的基本》刚好是有所激，如果这篇文章发出之后令你有所激，不妨反馈给我，以激励我继续写作，感谢。
 
-###### 推荐阅读 
-
-[2018 年读书总结：赐我理由，再披甲上阵](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639964&idx=1&sn=2f0ae0a0ec855d2b2fb7ccdd0fb82475&chksm=879dc573b0ea4c650ab8120790b8e542130c5ce0f1aa08192d67e95ca8d587797afa2104410f&token=468183103&lang=zh_CN#rd)
-[2017 年读书总结：笨拙的人往往有奇迹 ](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639495&idx=1&sn=c4e20f2d296f9bf7ae7e1d4449427dde&chksm=879dc7a8b0ea4ebe5960f5f05fa881378828baa482917c729f8106fec87ac10ee40aedab2e3b&token=2060945290&lang=zh_CN&scene=21#wechat_redirect) 
-[什么是笨方法？](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639834&idx=1&sn=7d6e7b978ca39be434b0bfc6084e3f7a&chksm=879dc6f5b0ea4fe3864b7bc4f8a1849dbfc85ef80e2de6f9542886f791b9ab4f4c660496d507&token=2060945290&lang=zh_CN&scene=21#wechat_redirect) 
-[致股东信 2018](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639834&idx=1&sn=7d6e7b978ca39be434b0bfc6084e3f7a&chksm=879dc6f5b0ea4fe3864b7bc4f8a1849dbfc85ef80e2de6f9542886f791b9ab4f4c660496d507&token=2060945290&lang=zh_CN&scene=21#wechat_redirect) 
