@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为何清朝「洋务运动」会失败？毛泽东「土地改革」会成功？
-date: 22019-06-02
+date: 2019-06-02
 categories: blog
 tags: [读书,卡片]
 description: 读书是一项「对重要内容进行提炼的工序」。
