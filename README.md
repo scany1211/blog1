@@ -29,7 +29,9 @@
 ### Changelog
 
 
-
+- 2019-08-12
+	+ 删去 Gitment
+	+ 在 post.html 增加 utterances 评论
 - 2019-01-27
 	+ Gitment 踩坑备忘：
 	+ repo 名字而不是地址
