@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 
 地址：[http://t.xiaomiquan.com/ufe23vv](http://t.xiaomiquan.com/ufe23vv)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
+![nSxrQK.jpg](https://s2.ax1x.com/2019/09/01/nSxrQK.jpg)
 
 
 ## 《笨方法学写作》相关链接
@@ -35,6 +35,11 @@ header-img: "img/green.jpg"
 - [卡片创作文集](http://card.learnwritingthehardway.cn/)
 - [笨方法学写作参考书单](https://www.douban.com/doulist/45064751/)
 
+
+
+## 电报：笨方法
+
+https://t.me/benfangfa
 
 
 ##  GitHub：好物清单
@@ -61,12 +66,13 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay02.jpg" align="center"></p>
+    <p><img src="https://s2.ax1x.com/2019/09/01/nSxTOS.jpg" align="center"></p>
 </center>
 
 
 ## 最近在干嘛？
 
+- 2019-09-01 修订本页图片
 - 2019-02 筹备课程升级，所有最近动态请看笨方法学习周报
 - 2017-11 更新《笨方法学写作》
 - 2017-09 练习《笨方法学Python》，学习产品经理知识；
