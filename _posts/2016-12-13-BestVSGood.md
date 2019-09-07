@@ -7,7 +7,7 @@ tags: [西蒙,有限理性]
 description: 你只需做一小部分有价值的事情就可以改变现状。
 ---
 
-
+[西蒙：最好是好的敌人（我生活的种种模式）书评](https://book.douban.com/review/8227148/)
 
 诺贝尔奖得主西蒙（Herbert Alexander Simon）一生爱两个隐喻，迷宫和花园，尤其是写他的自传《我生活的种种模式》时。
 
