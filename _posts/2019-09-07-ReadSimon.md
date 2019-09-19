@@ -55,7 +55,7 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 
 ## 主题阅读：步步为营
 
-* [司马贺：跨学科学习的最佳实践 | 书单](https://www.douban.com/doulist/45535686/)
+* [司马贺：跨学科学习的最佳实践 书单](https://www.douban.com/doulist/45535686/)
 * [《人类的认知》：高阶学习者如何用符号思考？](https://www.cnfeat.com/blog/2017/07/19/HumanCognition/)
 * [《基于实践的微观经济学》：窥见西蒙跨学科学习的践行路线](https://www.cnfeat.com/blog/2017/06/20/Empirically-basedMicroeconomics/)
 * [《现代决策理论的基石》：西蒙全部重要理论的核心都在这里](https://www.cnfeat.com/blog/2017/07/07/Simon-CornerstoneOfModernDecisionMaking/)
@@ -69,14 +69,7 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 ## 相关链接
 
 * [如何主题阅读曾国藩——普通人如何逆袭：从寒门书生到位极人臣](https://www.cnfeat.com/blog/2019/03/05/ZengGuoFan/)
-* [如何主题阅读马奇？| 资源索引 ](https://www.cnfeat.com/blog/2019/09/19/ReadMarch/)
-
-
-![](https://mmbiz.qpic.cn/mmbiz_png/HRoY0QT1GiaYdIicDIsdiaIziaukGx2uPNmliaOrRFAVnI6GKPPNbvoZMFx2BUfdlJYAZFsNHhiczCic6xsHRofQROAxw/640?wx_fmt=png)
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/HRoY0QT1GiaY6SWWze1HdfABeWKwsibHMQzusDkhVV5iaOTLJjZJ83RySMxiawZxL6Gl6pY9v7jBwEbtLY1jMjYBQg/0?wx_fmt=jpeg)
-
-
+* [如何主题阅读马奇？资源索引 ](https://www.cnfeat.com/blog/2019/09/19/ReadMarch/)
 
 
 
