@@ -1,19 +1,12 @@
 ---
 layout: post
-title: 笨方法学习周报 45W：如何主题阅读马奇？
-date: 2018-11-18
+title: 如何主题阅读马奇？| 资源索引
+date: 2019-09-19
 categories: blog
 tags: [读书,卡片]
 description: 读书是一项「对重要内容进行提炼的工序」。
 ---
 
-![image](http://upload-images.jianshu.io/upload_images/32598-b9047080d9a9873e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-笨方法学习周报是我使用笨方法学习的卡片汇总，笨方法四词概之**「坚毅、认真、科学、模仿」**，平日逐条首发「笨方法学写作」知识星球，每周汇总部分在此，欢迎订阅。
-
-P.S.文中附有链接，戳[阅读原文](https://www.jianshu.com/nb/25728012)即可查看
-
-## 起源
 
 早在 2017 年 8 月[主题阅读完司马贺](http://www.cnfeat.com/blog/2017/08/01/ReadingRoadOfSimon/)之后，我就想主题阅读司马贺的好搭档——马奇，但因种种事情耽搁，直至 2018 年 9 月才开始第一步——重读马奇《经验的疆界》，期间惊悉马奇驾鹤西去，心中激荡，凡事有所逼有所激，[顺势发了一个愿](http://www.cnfeat.com/blog/2018/09/24/Weekly38/)，正式开始马奇主题学习。
 
@@ -83,6 +76,7 @@ P.S.文中附有链接，戳[阅读原文](https://www.jianshu.com/nb/25728012)�
 
 ### Changelog
 
+- 2019-09-19 从周报修订成文章
 - 2018-12-09 增补文章与论文合集
 - 待增补 1）散读文章合集；2）文献合集
 - 2018-11-18 创建
