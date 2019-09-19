@@ -10,6 +10,9 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 
 ![image](https://upload-images.jianshu.io/upload_images/32598-09526fc72b453160?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+想看图片，请点[读《资治通鉴》半年给我带来的收获](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650640223&idx=1&sn=6cb0967ce0b5b6c72f7dc7caaa989842&chksm=879dc470b0ea4d661660f42af807d5397cc925edaa2e76a6b911b2b2f7d5c20f878dfac34f16&token=1061569471&lang=zh_CN#rd)
+
+
 > 笨方法学习周报是我使用笨方法学习的卡片汇总，笨方法四词概之**「坚毅、认真、科学、模仿」**，首发「笨方法学写作」知识星球，每周汇总部分在此。本期编号【2019/21W】。
 
 「这本到底是什么书呀？读了半年还没读完？实在不像你风格呀？」

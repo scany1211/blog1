@@ -40,6 +40,11 @@ PIM(Personal Information Management)与PKM（Personal Knowledge Management）的
 知识管理是一个很大概念，它包含有以下的关系。
 
 
+![nq7o9S.jpg](https://s2.ax1x.com/2019/09/19/nq7o9S.jpg)
+![nq7hAP.png](https://s2.ax1x.com/2019/09/19/nq7hAP.png)
+
+
+
 ![](http://openmindclub.qiniudn.com/omt/LearnMindMap-001.jpg)
 
 ![](http://openmindclub.qiniudn.com/omt/LearnMindMap-002.png)
@@ -56,6 +61,8 @@ PIM(Personal Information Management)与PKM（Personal Knowledge Management）的
 >对于个人知识管理仍然涉及到很多方面的内容，而我理解的知识管理的层次主要分为三个方面的内容，其一是从资料收集开始形成**个人知识库**，第二是根据自我的目标形成**知识地图**，其三是从知识到技能到方法论和模式不断的进行**转换和升华**。
 
 ![](http://openmindclub.qiniudn.com/omt/LearnMindMap-003.jpg)
+
+![nq7T1g.jpg](https://s2.ax1x.com/2019/09/19/nq7T1g.jpg)
 
 ## 收集（保存、记录）知识
 
@@ -122,6 +129,9 @@ RSS源或者高价值博客推荐，选择原则：（1）新文章好；（2）
 我的印象笔记分类
 
 ![](http://openmindclub.qiniudn.com/omt/LearnMindMap-004.jpg)
+
+![nq74tf.jpg](https://s2.ax1x.com/2019/09/19/nq74tf.jpg)
+
 
 ### 腾讯微云
 腾讯出品，在PC和手机都有有相应的软件，上传速度还是挺快的，容量有10T。我已经将常用的文件、软件和自己所有的图片上传到微云了
@@ -316,6 +326,7 @@ RSS源或者高价值博客推荐，选择原则：（1）新文章好；（2）
 
 ![](http://openmindclub.qiniudn.com/omt/LearnMindMap-005.jpg)
 
+![nq75h8.jpg](https://s2.ax1x.com/2019/09/19/nq75h8.jpg)
 
 # 参考资料
 
