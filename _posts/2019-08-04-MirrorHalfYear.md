@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读《资治通鉴》半年给我带来的收获
+title: 通鉴注我09：读《资治通鉴》半年给我带来的收获
 date: 2019-08-04
 categories: blog
 tags: [读书,卡片]
