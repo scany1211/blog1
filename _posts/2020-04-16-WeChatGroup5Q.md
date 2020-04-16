@@ -78,7 +78,7 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 以上设想，大家可参考看这两篇文章
 
 * [如何构建自主学习环境——这仅仅是个开始 - 笨方法学写作](https://www.cnfeat.com/blog/2014/05/27/SOLE/)
-* [何志森 | 一个月里我跟踪了108个居民，发现一个特别好玩的事，80%的人手里都拿着一个尿壶](https://mp.weixin.qq.com/s/zsJJZhEI4_vDQZkth8wsvg)
+* [何志森：一个月里我跟踪了108个居民，发现一个特别好玩的事，80%的人手里都拿着一个尿壶](https://mp.weixin.qq.com/s/zsJJZhEI4_vDQZkth8wsvg)
 
 你可以理解这个群就相当于是 Sugata Mitra 的墙中洞，何志森在珠江边搬来的垃圾桶盖。
 
@@ -127,6 +127,8 @@ We Stand Alone Together。
 参考[《人生最艰难的决定》](https://mp.weixin.qq.com/s/LxBcPY5HdIwhhoa-9nADbw)。
 
 #### 六经注我
+
+![JAL2ZQ.jpg](https://s1.ax1x.com/2020/04/16/JAL2ZQ.jpg)
 
 此文应以聊天形式发送在群中，后转念随手用卡片起稿，使用 Workflowy 整理成篇。
 
