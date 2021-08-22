@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客内容升级，定时更新，来订阅newsletter
+title: 内容升级，定时更新，欢迎订阅 newsletter
 date: 2021-08-23
 categories: blog
 tags: [读书,卡片]
