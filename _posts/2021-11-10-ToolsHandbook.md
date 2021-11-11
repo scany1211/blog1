@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《卡片创作工具指南》正式发布
-date:2021-11-10
+date: 2021-11-10
 categories: blog
 tags: [读书,卡片]
 description: 读书是一项「对重要内容进行提炼的工序」。
