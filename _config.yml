@@ -3,8 +3,8 @@ title: 和光且同尘
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: "和光且同尘|这一次一定要准备好一个blog"  
-baseurl: ""
-url: "http://www.scany1211.com"  
+baseurl: "/blog1"
+url: "https://blog1"  
 
 # About/contact
 owner: 
