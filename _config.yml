@@ -5,6 +5,7 @@ tagline: "cn"
 description: "和光且同尘|这一次一定要准备好一个blog"  
 baseurl: "/blog1"
 url: "https://blog1"  
+root: blog1
 
 # About/contact
 owner: 
@@ -43,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "scany"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
