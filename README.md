@@ -1,6 +1,6 @@
 ## 说明
 
-此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
+此博客 fork 自 [cnfeat](http://cnfeat.com/)，感谢。
 
 ## 读立写生
 
@@ -24,7 +24,7 @@
 
 如果内容对你有帮助，那就买盒卡片助我继续分享吧 (＾－＾)
 
-![](https://s2.ax1x.com/2019/03/16/AZUnVU.png)
+
 
 ### Changelog
 
