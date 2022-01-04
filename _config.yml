@@ -1,16 +1,16 @@
 # Site settings
-title: 笨方法学写作
+title: 和光且同尘
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "笨方法学写作|这一次彻底学会写作"  
+description: "和光且同尘|这一次一定要准备好一个blog"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.scany1211.com"  
 
 # About/contact
 owner: 
-  name: "陈素封"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "泰山"
+  email: scany1211@gmail.com
+  bio: "和光且同尘"
 
 # Data
 gavatar: img/favicon1.ico
